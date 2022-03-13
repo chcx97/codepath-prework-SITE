@@ -35,10 +35,16 @@ The following **optional** features are implemented:
 * [ ] User has a limited amount of time to enter their guess on each turn
 
 The following **additional** features are implemented:
-- [x] Although patterns can be generated randomly, I also included a pattern that follows the tones to the song, "Twinkle, Twinkle, Little Star."
+- [x] One of the patterns play the song, "Twinkle, Twinkle, Little Star."
 
 ## Video Walkthrough (GIF)
+
+User Winning the Game:
+
 <img src='SITE_walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+User Losing the Game:
+<img src='SITE_walkthroughStrike_3.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
