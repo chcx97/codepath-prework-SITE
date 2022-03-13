@@ -43,10 +43,12 @@ button{
 }
 #button1:active,  #button1.lit{
     background:green;
+    
 }
 
 #button2 {
     background: lightblue;
+    
 }
 #button2:active,  #button2.lit  {
     background:blue;
@@ -81,10 +83,11 @@ button{
 #button7:active,  #button7.lit {
     background:black;
 }
-
-/* images and videos max out at full width */
 img,
 video {
   height: auto;
   max-width: 100%;
 }
+
+/* images and videos max out at full width */
+
