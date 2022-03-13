@@ -19,6 +19,8 @@
     <p>
       Welcome to the game! Repeat back the patterns by pressing buttons.
     </p>
+
+    
     <button id="startBtn" onclick="startGame()"
             >Start
     </button>
@@ -28,26 +30,28 @@
     </button>
     
     <div id="gameButtonArea">
-        <button id="button1" onclick="guess(1)" onmousedown="startTone(1)" onmouseup="stopTone()" 
-                >
+        
+        <button id="button1" onclick="guess(1)" onmousedown="startTone(1)" onmouseup="stopTone(1)" onlick = "pic1()">
+                <img id="star1" class = "hidden" src = "https://cdn.glitch.global/4580ec3e-2ea5-40ff-a5b3-b75fd3b3d436/clipart1953578.png?v=1646679870443" alt="face1">  
         </button>
-        <button id="button2" onclick="guess(2)" onmousedown="startTone(2)" onmouseup="stopTone()"
-                >
+
+        <button id="button2" onclick="guess(2)" onmousedown="startTone(2)" onmouseup="stopTone(2)">
+          <img id="star2" class = "hidden" src = "https://cdn.glitch.global/4580ec3e-2ea5-40ff-a5b3-b75fd3b3d436/clipart1953578.png?v=1646679870443" alt="face2"> 
         </button>
-        <button id="button3" onclick="guess(3)" onmousedown="startTone(3)" onmouseup="stopTone()"
-                >
+        <button id="button3" onclick="guess(3)" onmousedown="startTone(3)" onmouseup="stopTone(3)">
+          <img id="star3" class = "hidden" src = "https://cdn.glitch.global/4580ec3e-2ea5-40ff-a5b3-b75fd3b3d436/clipart1953578.png?v=1646679870443" alt="face3"> 
         </button>
-        <button id="button4" onclick="guess(4)" onmousedown="startTone(4)" onmouseup="stopTone()"
-                >
+        <button id="button4" onclick="guess(4)" onmousedown="startTone(4)" onmouseup="stopTone(4)">
+          <img id="star4" class = "hidden" src = "https://cdn.glitch.global/4580ec3e-2ea5-40ff-a5b3-b75fd3b3d436/clipart1953578.png?v=1646679870443" alt="face34"> 
         </button>
-        <button id="button5" onclick="guess(5)" onmousedown="startTone(5)" onmouseup="stopTone()"
-                >
+        <button id="button5" onclick="guess(5)" onmousedown="startTone(5)" onmouseup="stopTone(5)">
+          <img id="star5" class = "hidden" src = "https://cdn.glitch.global/4580ec3e-2ea5-40ff-a5b3-b75fd3b3d436/clipart1953578.png?v=1646679870443" alt="face5"> 
         </button>
-        <button id="button6" onclick="guess(6)" onmousedown="startTone(6)" onmouseup="stopTone()"
-                >
+        <button id="button6" onclick="guess(6)" onmousedown="startTone(6)" onmouseup="stopTone(6)">
+          <img id="star6" class = "hidden" src = "https://cdn.glitch.global/4580ec3e-2ea5-40ff-a5b3-b75fd3b3d436/clipart1953578.png?v=1646679870443" alt="face6"> 
         </button>
-        <button id="button7" onclick="guess(7)" onmousedown="startTone(7)" onmouseup="stopTone()"
-                >
+        <button id="button7" onclick="guess(7)" onmousedown="startTone(7)" onmouseup="stopTone(7)">
+          <img id="star7" class = "hidden" src = "https://cdn.glitch.global/4580ec3e-2ea5-40ff-a5b3-b75fd3b3d436/clipart1953578.png?v=1646679870443" alt="face7"> 
         </button>
 
     </div>
