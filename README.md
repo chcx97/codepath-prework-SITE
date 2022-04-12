@@ -49,9 +49,12 @@ User Losing the Game:
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
     
-    Math.random() Function: https://developer.mozilla.org/en-US/docs/web/javascript/reference/global_objects/math/random
+    - [mdn web docs](https://developer.mozilla.org/e-US/docs/web/javascript/reference/global_objects/math/random) - Math.random() Function
+    - [Frequencies for Sounds](https://mrs-o-c.com/Finch/soundFrequencies.html) - Twinkle, Twinkle, Little Star Frequencies 
+    - [mica-web](https://mica-web.github.io/learn/workflows/add-img-glitch) - Add image to background
+    - [w3schools](https://www.w3schools.com/css/css_text.asp) - Changing font color
     
-    Twinkle, Twinkle, Little Star Frequencies: https://mrs-o-c.com/Finch/soundFrequencies.html
+    - [wikihow](https://www.wikihow.com/Change-the-Button-Color-in-HTML) - Changing font to bold
     
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
     
